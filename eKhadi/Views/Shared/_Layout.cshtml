@@ -1,0 +1,301 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - eKhadi</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khadi</title>
+	<link href="~/asset/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="~/asset/css/style.css" rel="stylesheet" />
+	<link href="~/asset/css/footerstyle.css" rel="stylesheet" />
+	<link href="~/asset/css/aos.css" rel="stylesheet" />
+	<link href="~/asset/css/carousel.css" rel="stylesheet" />
+	<link href="~/asset/css/carousel.rtl.css" rel="stylesheet" />
+    <link href="~/asset/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="~/asset/css/all.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+	<script src="~/asset/css/bootstrap.bundle.min.js"></script> 
+    <link rel="icon" type="image/x-icon" href="~/asset/Images/Logo.svg">
+
+</head>
+<body class="bg-light ">
+
+    <div class=" py-0 bg-body-tertiary border-bottom position-relative">
+        <div class="container-fluid d-flex flex-wrap bg-gold padding">
+            <ul class="nav me-auto">
+                <li class="nav-item size h6">
+                    <a href="#" class="nav-link link-body-emphasis px-1 active"
+                       aria-current="page">
+                        कुटीर एवं ग्रामीण उद्योग विभाग मध्य प्रदेश
+                    </a>
+                </li>
+            </ul>
+            <ul class="nav ">
+                <li class="nav-item size h6"><a href="#" class="nav-link link-body-emphasis px-2">EN</a></li>
+                <span class="size" style="align-content: center;margin-bottom: 14px;">|</span>
+                <li class="nav-item size h6"><a href="#" class="nav-link link-body-emphasis px-2">हिं</a></li>
+                <li class="nav-item login-btn px-2">
+                    <a data-toggle="modal" data-target="#loginModal">
+                        <i class="fa fa-sign-in"
+                           aria-hidden="true"></i>
+                        लॉग इन करें
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <header class="topbar sticky-top">
+        <div class="container-fluid"></div>
+        <nav class="navbar navbar-expand-lg bg-white bgmedia">
+            <div class="container">
+                <div class=" p-2 size col-lg-0 me-0">
+                    <a asp-action="Index">
+                    <img src="~/asset/Images/Logo.svg" alt="image" height="60"></a>
+                </div>
+                <a class="navbar-brand col-lg-3 me-0 font-weight-bold responsive-title color topsize " href="#">
+                    म.प्र. खादी एवं
+                    ग्रामोद्योग
+                    बोर्ड
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07"
+                        aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon "></span>
+                </button>
+                <img src="~/asset/Images/mplogo.svg" class="desktop-only col-lg-0 me-2" alt="image" height="70">
+
+            </div>
+        </nav>
+        <nav class="navbar navbar-expand-lg navbar-dark  ">
+            <div class="container bg-blue rounded-5">
+                <div class="collapse navbar-collapse " id="navbarsExample07">
+                    <ul class="navbar-nav me-auto mb-3 mb-lg-0 justify-content-lg-center">
+                        <li class="nav-item h6">
+                            <a class=" fa fa-home nav-link text-bg-success" asp-action="Index"></a>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6 dropdown">
+                            <a class="nav-link dropdown-toggle text-bg-success " href="#" data-bs-toggle="dropdown"
+                               id="dropdownMenuButton" data-mdb-toggle="dropdown" aria-expanded="false">हमारे बारे में </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <li><a class="dropdown-item" asp-action="About" asp-controller="Home">संक्षिप्त परिचय</a></li>
+                                <li><a class="dropdown-item" href="#">संगठनात्मक संरचना</a></li>
+                                <li><a class="dropdown-item" href="#">बोर्ड अधिनियम</a></li>
+                            </ul>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6 dropdown">
+                            <a class="nav-link dropdown-toggle text-bg-success " href="#" data-bs-toggle="dropdown"
+                               id="dropdownMenuButton" data-mdb-toggle="dropdown" aria-expanded="false">योजनायें </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <li><a class="dropdown-item" href="#"> प्रधानमंत्री रोजगार सृजन कार्यक्रम</a></li>
+                                <li><a class="dropdown-item" href="#">मुख्यमंत्री ग्रामोद्योग रोजगार योजना</a></li>
+                                <li><a class="dropdown-item" href="#">बाजार संवर्धन एवं विकास योजना</a></li>
+                                <li><a class="dropdown-item" href="#">खादी ग्रामोद्योग विकास योजना</a></li>
+                                <li><a class="dropdown-item" href="#">मॉडल परियोजनाएं</a></li>
+                                <li><a class="dropdown-item" href="#">प्रशिक्षण योजना</a></li>
+                                <li><a class="dropdown-item" href="#">स्फूर्ति योजना</a></li>
+                                <li><a class="dropdown-item" href="#">मुख्यमंत्री युवा उद्यमी विकास अभियान</a></li>
+                                <li><a class="dropdown-item" href="#">अन्य योजनाएँ</a></li>
+                            </ul>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6">
+                            <a class="nav-link text-bg-success" href="#">सेवाएं </a>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6">
+                            <a class="nav-link text-bg-success" href="#">कर्मचारी कार्नर </a>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6">
+                            <a class="nav-link text-bg-success" href="#">आर.टी.आई.</a>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6">
+                            <a class="nav-link text-bg-success" href="#">निविदा और परिपत्र </a>
+                        </li>
+                        <span class="hide" style="align-content: center;">|</span>
+                        <li class="nav-item h6 dropdown">
+                            <a class="nav-link dropdown-toggle text-bg-success " href="#" data-bs-toggle="dropdown"
+                               id="dropdownMenuButton" data-mdb-toggle="dropdown" aria-expanded="false">संपर्क </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <li><a class="dropdown-item" href="#">संपर्क करने का पता</a></li>
+                                <li><a class="dropdown-item" href="#">टेलीफ़ोन डाइरेक्टरी</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+        </div>
+    </header>
+    
+    <main role="main">
+        @RenderBody()
+    </main>
+
+    <footer class="text-center bg-green ">
+        <div class="footer-1 ">
+            <div class="container bg-gold rounded-5">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <ul class="footer-logos">
+                            <li><img src="~/asset/Images/Logo1.png" alt="" title="" /></li>
+                            <li><img src="~/asset/Images/Logo2.png" alt="" title="" /></li>
+                            <li><img src="~/asset/Images/Logo3.png" alt="" title="" /></li>
+                            <li><img src="~/asset/Images/Logo4.png" alt="" title="" /></li>
+                            <li><img src="~/asset/Images/Logo5.png" alt="" title="" /></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-2 ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="~/asset/Images/Logo6.png" alt="" title="" />
+                    </div>
+                    <div class="col-md-10">
+                        <div class="content text-justify">
+                            <p>
+                                यह मध्यप्रदेश खादी तथा ग्रामोद्योग बोर्ड का पोर्टल है, जिसे राज्य एवं केंद्र सरकार की एजेंसियों
+                                द्वारा प्रदान की जा रही सूचना एवं सेवाओं तक एकल खिड़की पहुंच को सक्षम करने के उद्देश्य से विकसित
+                                किया
+                                गया है। पोर्टल को<a href="#" style="text-decoration:none; color:white"> एनआईसीएसआई, इलेक्ट्रॉनिक्स एवं सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार</a> एवं <a href="#" style="text-decoration:none; color:white">यूनिकॉप्स टेक्नोलॉजीस</a> द्वारा
+                                डिजाइन
+                                एवं विकसित किया गया है तथा इसकी सामग्री का स्वामित्व कुटीर एवं ग्रामीण उद्योग विभाग मध्य प्रदेश
+                                के
+                                पास
+                                है।
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <ul>
+                            <li>© मध्यप्रदेश खादी तथा ग्रामोद्योग बोर्ड. सर्वाधिकार सुरक्षित </li>
+                            <span style="align-content: center;">|</span>
+                            <li id="visit-count">
+                            </li>
+                            <span style="align-content: center;">|</span>
+                            <li>
+
+                                <body onload="myFunction()">
+                                    अंतिम अद्यतन:
+                                    <span id="demo"></span>
+                                    </body>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+    <script>
+            // Last Modified function start
+                function myFunction() {
+          var x = new Date(document.lastModified);
+
+          var day = String(x.getDate()).padStart(2, '0');
+          var month = String(x.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+          var year = x.getFullYear(); // Full 4-digit year
+
+          var hours = x.getHours();
+          var minutes = String(x.getMinutes()).padStart(2, '0');
+          var seconds = String(x.getSeconds()).padStart(2, '0');
+
+          var ampm = hours >= 12 ? 'PM' : 'AM';
+          hours = hours % 12;
+          hours = hours ? hours : 12; // Convert 0 to 12
+          hours = String(hours).padStart(2, '0');
+
+          var formattedDateTime = `${day}/${month}/${year} , ${hours}:${minutes}:${seconds} ${ampm}`;
+
+          document.getElementById("demo").innerHTML = formattedDateTime;
+        }
+        // Last Modified function end
+
+
+            //visitor count fuction start
+            myFunction();
+            // Get the current count from localStorage
+            let count = localStorage.getItem('visitCount');
+            count = count ? parseInt(count) : 1000;
+
+            // Increment and update
+            count++;
+            localStorage.setItem('visitCount', count);
+
+            // Show it
+            document.getElementById('visit-count').innerText = `आगंतुक संख्या: ${count}`;
+
+            //visitor count fuction end
+             function openModal(img) {
+            const modal = document.getElementById("galleryModal");
+            const modalImg = document.getElementById("expandedImg");
+
+            modal.style.display = "block";
+            modalImg.src = img.src;
+        }
+
+                let currentIndex = 0;
+        const images = Array.from(document.querySelectorAll('.gallery-thumbnail'));
+        const modal = document.getElementById("galleryModal");
+        const modalImg = document.getElementById("expandedImg");
+
+        function openModal(imgElement) {
+            currentIndex = images.indexOf(imgElement);
+            modal.style.display = "block";
+            modalImg.src = imgElement.src;
+        }
+
+        function closeModal() {
+            modal.style.display = "none";
+        }
+
+        function changeImage(direction) {
+            currentIndex += direction;
+
+            // Wrap around the image list
+            if (currentIndex >= images.length) currentIndex = 0;
+            if (currentIndex < 0) currentIndex = images.length - 1;
+
+            modalImg.src = images[currentIndex].src;
+        }
+
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+
+        function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+    </script>
+
+
+</body>
+
+</html>

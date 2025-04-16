@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eKhadi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eKhadi.iyd09sq12a.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Font\\Arya-Regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\Font\\Arya-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Font\\Hind-Medium.ttf",
+      "PackagePath": "staticwebassets\\asset\\Font\\Hind-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Font\\Hind-Regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\Font\\Hind-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Font\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\asset\\Font\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Font\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\asset\\Font\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A1.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A2.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A3.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A4.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A5.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Gallary\\A6.jpg",
+      "PackagePath": "staticwebassets\\asset\\Gallary\\A6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\CM.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\CM.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Charkha.gif",
+      "PackagePath": "staticwebassets\\asset\\Images\\Charkha.gif"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Circle.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Cotton.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Cotton.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Gandhiji.jpg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Gandhiji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Kabira.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Kabira.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Khadi Crousel.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Khadi Crousel.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Khadi.jpg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Khadi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo1.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo2.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo3.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo4.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo5.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Logo6.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\Logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Silk.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Silk.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Slide_1.jpg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Slide_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Slide_2.jpg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Slide_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Slide_3.jpg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Slide_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\Woolen.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\Woolen.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\header_bg - Copy.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\header_bg - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\header_bg.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\header_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\header_bg1.png",
+      "PackagePath": "staticwebassets\\asset\\Images\\header_bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\mplogo.svg",
+      "PackagePath": "staticwebassets\\asset\\Images\\mplogo.svg"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\Images\\new.gif",
+      "PackagePath": "staticwebassets\\asset\\Images\\new.gif"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\aos.css",
+      "PackagePath": "staticwebassets\\asset\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\asset\\css\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\carousel.rtl.css",
+      "PackagePath": "staticwebassets\\asset\\css\\carousel.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\footerstyle.css",
+      "PackagePath": "staticwebassets\\asset\\css\\footerstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\headers.css",
+      "PackagePath": "staticwebassets\\asset\\css\\headers.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\asset\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\Music\\ekhadi\\eKhadi\\eKhadi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eKhadi.props",
+      "PackagePath": "build\\eKhadi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eKhadi.props",
+      "PackagePath": "buildMultiTargeting\\eKhadi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eKhadi.props",
+      "PackagePath": "buildTransitive\\eKhadi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eKhadi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eKhadi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
